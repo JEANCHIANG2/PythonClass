@@ -1,0 +1,1788 @@
+{
+  "status": "success",
+  "total": 13179,
+  "page": 1,
+  "total_page": 1318,
+  "data": [
+    {
+      "id": 155289,
+      "prod_oid": 155289,
+      "name": "\u3010\u4e00\u4eba\u6210\u884c\u3011\u4eac\u90fd\u5929\u6a4b\u7acb\u4e00\u65e5\u904a|\u4f0a\u6839\u7063\u904a\u8239\u30fb\u5929\u6a4b\u7acb\u30fb\u7f8e\u5c71\u8305\u8349\u5c4b\u4e4b\u91cc\u30fb\u534a\u87f9\u6d77\u9bae\u934b\u5957\u9910|\u5927\u962a\u96e3\u6ce2\u51fa\u767c",
+      "introduction": "\u4eac\u90fd\u90ca\u5340\u4e00\u65e5\u904a!KKday\u5929\u6a4b\u7acb\u4e00\u65e5\u904a\u5e36\u4f60\u8f15\u9b06\u8d70\u8a2a\u4f0a\u6839\u7063\u904a\u8239\u3001\u5929\u6a4b\u7acb\u3001\u7f8e\u5c71\u8305\u8349\u5c4b\u4e4b\u91cc,\u514d\u7169\u60f1\u4ea4\u901a\u554f\u984c,\u5e36\u4f60\u5f9e\u5927\u962a\u51fa\u767c\u8f15\u9b06\u904a\u8a2a,\u63a2\u8a2a\u4eac\u90fd\u4e09\u8655\u71b1\u9580\u89c0\u5149\u666f\u9ede,\u611f\u53d7\u4eac\u90fd\u5c71\u8207\u6d77\u7684\u5169\u7a2e\u4e0d\u540c\u9762\u8c8c\u3002\u4eab\u7528\u534a\u87f9\u6d77\u9bae\u934b\u5fa1\u81b3\u5957\u9910\u3002",
+      "rating_count": 4530,
+      "rating_star": 4.79,
+      "order_count": 23025,
+      "show_order_count": "20K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250416",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": null,
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_023"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231101121054_JXayq\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231101121054_JXayq\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231101121055_Ly8ly\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231101121053_PDHqA\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20241011012231_Jcsgx\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231101121054_RPWij\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231220191542_I3qTE\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231101121053_Hi4tV\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231220191646_zLVnl\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20241206044905_HIkjr\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155289\/20231101121054_T3jjP\/jpg"
+      ],
+      "duration": 630,
+      "days": 0,
+      "hours": 10,
+      "minutes": 30,
+      "currency": "TWD",
+      "display_sale_price": "3,440",
+      "sale_price": 3440,
+      "display_price": "1,579",
+      "price": 1579,
+      "discount": 0.541,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 3087,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00002",
+              "name": "\u5927\u962a"
+            },
+            {
+              "id": "A01-003-00003",
+              "name": "\u4eac\u90fd"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "9675"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-7820",
+          "name": "\u9053\u9813\u5800"
+        },
+        {
+          "code": "D-JP-3342",
+          "name": "\u5fc3\u9f4b\u6a4b"
+        },
+        {
+          "code": "D-JP-3541",
+          "name": "\u4e39\u5f8c"
+        },
+        {
+          "code": "D-JP-3548",
+          "name": "\u5929\u6a4b\u7acb"
+        },
+        {
+          "code": "D-JP-7784",
+          "name": "\u4f0a\u6839\u753a"
+        },
+        {
+          "code": "D-JP-3255",
+          "name": "\u5927\u962a"
+        },
+        {
+          "code": "D-JP-3256",
+          "name": "\u4eac\u90fd"
+        },
+        {
+          "code": "D-JP-3217",
+          "name": "\u95dc\u897f"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00002",
+          "name": "\u5927\u962a"
+        },
+        {
+          "id": "A01-003-00003",
+          "name": "\u4eac\u90fd"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "show_url_order_num": "20K+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00002",
+        "A01-003-00003"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/155289"
+    },
+    {
+      "id": 125898,
+      "prod_oid": 125898,
+      "name": "\u4e5d\u5dde\u798f\u5ca1\u5927\u5206\u4e00\u65e5\u904a|\u592a\u5bb0\u5e9c\u5929\u6eff\u5bae\u30fb\u6e6f\u5e03\u9662(\u7531\u5e03\u9662)\u30fb\u5225\u5e9c\u6d77\u5730\u7344&\u7076\u5730\u7344(\u7ac8\u5730\u7344)\u203b\u8d08\u9001\u6e29\u6cc9\u86cb\u4e00\u500b\u30fb\u5b63\u7bc0\u6c34\u679c\u63a1\u679c|\u535a\u591a\u51fa\u767c(\u4e2d\u82f1\u65e5\u97d3\u5c0d\u61c9)",
+      "introduction": "\u7acb\u5373\u900f\u904eKKday\u9810\u7d04\u65e5\u672c\u4e5d\u5dde\u798f\u5ca1\u5927\u5206\u4e00\u65e5\u904a,\u514d\u7169\u8166\u4ea4\u901a\u554f\u984c,\u4e00\u5929\u5167\u6700\u6709\u6548\u7387\u8f15\u9b06\u8d70\u8a2a\u592a\u5bb0\u5e9c\u5929\u6eff\u5bae\u3001\u6e6f\u5e03\u9662\u548c\u5225\u5e9c\u6d77\u5730\u7344\u7b49\u4e09\u5927\u6700\u592f\u666f\u9ede,\u53e6\u5916\u9084\u6709\u8cde\u6afb\u6216\u82b1\u83d6\u84b2\u7b49\u5b63\u7bc0\u9650\u5b9a\u884c\u7a0b,\u5e36\u60a8\u9ad4\u9a57\u65e5\u672c\u56db\u5b63\u4e4b\u7f8e\u3002\u65e5\u672c\u65b0\u9bae\u6c34\u679c\u73fe\u63a1\u73fe\u5403\u5403\u5230\u98fd\u30026 \u6708\u4e2d\u65ec\u81f3\u4e0b\u65ec\u7684\u83d6\u84b2\u82b1\u5b63\u671f\u9593,\u53ef\u4ee5\u6b23\u8cde\u5230\u795e\u6a02\u57ce\u6e56\u83d6\u84b2\u82b1\u5712\u7b49\u96a8\u5b63\u7bc0\u8b8a\u5316\u7684\u58ef\u89c0\u666f\u8272!",
+      "rating_count": 1332,
+      "rating_star": 4.75,
+      "order_count": 5291,
+      "show_order_count": "5K+",
+      "confirm_hour": 0,
+      "instant_booking": false,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250414",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": null,
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_023"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20240319152957_85wAV\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20240319152957_85wAV\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20220110042035_tLvpF\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20220110041903_4p4B3\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20250123035306_bpOfC\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20230515113543_NtG9Q\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20221025093010_A8MZt\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20221025092954_KSyiC\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20230228233015_EJYpi\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20220110041904_hiY7R\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_125898\/20250123035307_c638Y\/jpg"
+      ],
+      "duration": 630,
+      "days": 0,
+      "hours": 10,
+      "minutes": 30,
+      "currency": "TWD",
+      "display_sale_price": "2,533",
+      "sale_price": 2533,
+      "display_price": "1,241",
+      "price": 1241,
+      "discount": 0.5101,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 2391,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00047",
+              "name": "\u4e5d\u5dde"
+            },
+            {
+              "id": "A01-003-00018",
+              "name": "\u5927\u5206"
+            },
+            {
+              "id": "A01-003-00040",
+              "name": "\u798f\u5ca1"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "24276"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-4061",
+          "name": "\u535a\u591a"
+        },
+        {
+          "code": "D-JP-3313",
+          "name": "\u5927\u5206\u5e02"
+        },
+        {
+          "code": "D-JP-3320",
+          "name": "\u5225\u5e9c"
+        },
+        {
+          "code": "D-JP-3323",
+          "name": "\u7531\u5e03\u9662"
+        },
+        {
+          "code": "D-JP-4060",
+          "name": "\u798f\u5ca1\u5e02"
+        },
+        {
+          "code": "D-JP-4063",
+          "name": "\u592a\u5bb0\u5e9c"
+        },
+        {
+          "code": "D-JP-3220",
+          "name": "\u5927\u5206\u7e23"
+        },
+        {
+          "code": "D-JP-3225",
+          "name": "\u798f\u5ca1"
+        },
+        {
+          "code": "D-JP-3209",
+          "name": "\u4e5d\u5dde"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00047",
+          "name": "\u4e5d\u5dde"
+        },
+        {
+          "id": "A01-003-00018",
+          "name": "\u5927\u5206"
+        },
+        {
+          "id": "A01-003-00040",
+          "name": "\u798f\u5ca1"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "show_url_order_num": "5K+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00047",
+        "A01-003-00018",
+        "A01-003-00040"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/125898"
+    },
+    {
+      "id": 18609,
+      "prod_oid": 18609,
+      "name": "\u30101\u4eba\u6210\u5718\u3011\u5bcc\u58eb\u5c71\u4e00\u65e5\u904a|\u5bcc\u58eb\u5c71\u4e94\u5408\u76ee&\u5fcd\u91ce\u516b\u6d77&\u5bcc\u58eb\u5929\u4e0a\u5c71\u5168\u666f\u7e9c\u8eca|\u6771\u4eac\u65b0\u5bbf\u51fa\u767c",
+      "introduction": "\u7acb\u5373\u5728 KKday \u8a02\u8cfc\u6771\u4eac\u8fd1\u90ca\u5bcc\u58eb\u5c71\u4e00\u65e5\u904a,\u4e00\u5929\u4e4b\u5167\u8d70\u904d\u5fc5\u53bb\u5bcc\u58eb\u5c71\u4e94\u5408\u76ee\u3001\u5fcd\u91ce\u516b\u6d77\u3001\u6cb3\u53e3\u6e56\u3001\u5bcc\u58eb\u5929\u4e0a\u5c71\u5168\u666f\u7e9c\u8eca\u3002\u5c08\u696d\u4e2d\u6587\u5c0e\u89bd,\u5e36\u4f60\u5f9e\u6771\u4eac\u51fa\u767c,\u63a2\u7d22\u5bcc\u58eb\u5c71\u4e4b\u7f8e\u3002\u6771\u4eac\u61f6\u4eba\u5305\u3002",
+      "rating_count": 3227,
+      "rating_star": 4.65,
+      "order_count": 14521,
+      "show_order_count": "10K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250414",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": "mt-fuji-day-tour-mt-fuji-5th-station-lake-kawaguchi-and-oshino-hakkai",
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_023"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20221221131936_NV5gC\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20221221131936_NV5gC\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20230112030408_k0qKK\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20230112030403_QmTyT\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20240417070612_rkp1U\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20230423055104_gZsgI\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20230423055053_kGK6u\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20181224092111_gXTOw\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20181224092108_LrDOt\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_18609\/20230303093831_z33LS\/jpg"
+      ],
+      "duration": 600,
+      "days": 0,
+      "hours": 10,
+      "minutes": 0,
+      "currency": "TWD",
+      "display_sale_price": "3,587",
+      "sale_price": 3587,
+      "display_price": "2,152",
+      "price": 2152,
+      "discount": 0.4001,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 2872,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00001",
+              "name": "\u6771\u4eac"
+            },
+            {
+              "id": "A01-003-00010",
+              "name": "\u5c71\u68a8"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "1894"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-3385",
+          "name": "\u6cb3\u53e3\u6e56"
+        },
+        {
+          "code": "D-JP-7607",
+          "name": "\u5fcd\u91ce\u516b\u6d77"
+        },
+        {
+          "code": "D-JP-3383",
+          "name": "\u5c71\u4e2d\u6e56"
+        },
+        {
+          "code": "D-JP-3384",
+          "name": "\u5fcd\u91ce"
+        },
+        {
+          "code": "D-JP-3651",
+          "name": "\u65b0\u5bbf"
+        },
+        {
+          "code": "D-JP-3261",
+          "name": "\u6771\u4eac"
+        },
+        {
+          "code": "D-JP-3267",
+          "name": "\u5c71\u68a8"
+        },
+        {
+          "code": "D-JP-3213",
+          "name": "\u7532\u4fe1\u8d8a"
+        },
+        {
+          "code": "D-JP-3218",
+          "name": "\u95dc\u6771"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00001",
+          "name": "\u6771\u4eac"
+        },
+        {
+          "id": "A01-003-00010",
+          "name": "\u5c71\u68a8"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "show_url_order_num": "10K+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00001",
+        "A01-003-00010"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/18609-mt-fuji-day-tour-mt-fuji-5th-station-lake-kawaguchi-and-oshino-hakkai"
+    },
+    {
+      "id": 154074,
+      "prod_oid": 154074,
+      "name": "\u6d77\u4e4b\u4eac\u90fd\u4f0a\u6839\u5929\u6a4b\u7acb\u4e00\u65e5\u904a|\u4f0a\u6839\u7063\u904a\u8239\u30fb\u4f0a\u6839\u821f\u5c4b\u30fb\u5929\u6a4b\u7acb(\u5143\u4f0a\u52e2\u7c60\u795e\u793e\u301c\u5098\u677e\u516c\u5712\u301c\u667a\u6069\u5bfa)\u30fb\u5929\u6a4b\u7acb\u540d\u7522\u9b91\u9b5a\u5957\u9910|\u5927\u962a\u30fb\u4eac\u90fd\u51fa\u767c(\u542b\u5348\u9910)",
+      "introduction": "\u73fe\u5728\u8a02\u8cfcKKday\u4eac\u90fd\u90ca\u5340\u4e00\u65e5\u904a,\u8f15\u9b06\u524d\u5f80\u6d77\u4e4b\u4eac\u90fd\u30fc\u4f0a\u6839\u30fb\u5929\u6a4b\u7acb,\u8212\u9069\u5df4\u58eb\u5e36\u60a8\u5f9e\u5927\u962a\u6216\u4eac\u90fd\u51fa\u767c,\u4ea4\u901a\u554f\u984c\u514d\u7169\u60f1\u3002\u5b89\u6392\u5929\u6a4b\u7acb\u540d\u7522\u70e4\u9b91\u9b5a\u6d77\u9bae\u934b\u5fa1\u81b3\u5957\u9910\u3002",
+      "rating_count": 857,
+      "rating_star": 4.8,
+      "order_count": 3480,
+      "show_order_count": "3K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250415",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": null,
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_023"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20231017015839_K6RWq\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20231017015839_K6RWq\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20240223171331_MuNCZ\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20241011065901_Dp6mS\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20240223185641_VHLqW\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20240223171024_YOPq0\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20240223183139_zZi9r\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20240806051323_E2iLj\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20240223171120_6biRy\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20231017015839_1rSIT\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_154074\/20240223171000_ZDByD\/jpg"
+      ],
+      "duration": 630,
+      "days": 0,
+      "hours": 10,
+      "minutes": 30,
+      "currency": "TWD",
+      "display_sale_price": "3,564",
+      "sale_price": 3564,
+      "display_price": "2,256",
+      "price": 2256,
+      "discount": 0.367,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 2861,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00002",
+              "name": "\u5927\u962a"
+            },
+            {
+              "id": "A01-003-00003",
+              "name": "\u4eac\u90fd"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "9675"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-3342",
+          "name": "\u5fc3\u9f4b\u6a4b"
+        },
+        {
+          "code": "D-JP-3544",
+          "name": "\u4eac\u90fd\u8eca\u7ad9\u5468\u908a"
+        },
+        {
+          "code": "D-JP-3255",
+          "name": "\u5927\u962a"
+        },
+        {
+          "code": "D-JP-3256",
+          "name": "\u4eac\u90fd"
+        },
+        {
+          "code": "D-JP-3217",
+          "name": "\u95dc\u897f"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00002",
+          "name": "\u5927\u962a"
+        },
+        {
+          "id": "A01-003-00003",
+          "name": "\u4eac\u90fd"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "show_url_order_num": "3K+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00002",
+        "A01-003-00003"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/154074"
+    },
+    {
+      "id": 10999,
+      "prod_oid": 19490,
+      "name": "\u30101\u4eba\u6210\u5718\u3011\u65e5\u672c\u5bcc\u58eb\u5c71\u4e00\u65e5\u904a | \u5bcc\u58eb\u5c71\u30fb\u6cb3\u53e3\u6e56\u30fb\u5fa1\u6bbf\u5834 Outlet\u30fb\u6728\u4e4b\u82b1\u4e4b\u6e6f\u6eab\u6cc9 | \u6771\u4eac\u9280\u5ea7\u51fa\u767c",
+      "introduction": "\u7acb\u5373\u9810\u8a02\u5bcc\u58eb\u5c71\u4e00\u65e5\u904a,\u5e36\u4f60\u4e00\u5929\u8d70\u8a2a\u5bcc\u58eb\u5c71\u3001\u6cb3\u53e3\u6e56\u3001\u5fcd\u91ce\u516b\u6d77\u3001\u5fa1\u6bbf\u5834Outlet!\u642d\u4e58\u8212\u9069\u5c08\u8eca,\u5728\u5c08\u696d\u5c0e\u89bd\u7684\u5f15\u9818\u4e0b,\u8f15\u9b06\u904a\u89bd\u6771\u4eac\u8fd1\u90ca\u5fc5\u8a2a\u666f\u9ede!",
+      "rating_count": 7107,
+      "rating_star": 4.69,
+      "order_count": 32178,
+      "show_order_count": "30K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250416",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": "tokyo-mount-fuji-lake-kawaguchi-gotemba-tour-japan",
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_023"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20180605022352_ouP7s\/png",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20180605022352_ouP7s\/png",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20200203074853_P8rIQ\/png",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20200203074905_AYvgf\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20230511102423_K97yQ\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20230511132910_tJniK\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20230511102428_0RhkI\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20230511102424_nEiCY\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20190212051354_maWIg\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20230729043032_UB7kl\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19490\/20181205042652_6UFZi\/jpg"
+      ],
+      "duration": 600,
+      "days": 0,
+      "hours": 10,
+      "minutes": 0,
+      "currency": "TWD",
+      "display_sale_price": "2,087",
+      "sale_price": 2087,
+      "display_price": "1,043",
+      "price": 1043,
+      "discount": 0.5002,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 2008,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00009",
+              "name": "\u975c\u5ca1"
+            },
+            {
+              "id": "A01-003-00001",
+              "name": "\u6771\u4eac"
+            },
+            {
+              "id": "A01-003-00010",
+              "name": "\u5c71\u68a8"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "1894"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-3385",
+          "name": "\u6cb3\u53e3\u6e56"
+        },
+        {
+          "code": "D-JP-3648",
+          "name": "\u9280\u5ea7"
+        },
+        {
+          "code": "D-JP-7607",
+          "name": "\u5fcd\u91ce\u516b\u6d77"
+        },
+        {
+          "code": "D-JP-3384",
+          "name": "\u5fcd\u91ce"
+        },
+        {
+          "code": "D-JP-4111",
+          "name": "\u5fa1\u6bbf\u5834"
+        },
+        {
+          "code": "D-JP-3253",
+          "name": "\u975c\u5ca1"
+        },
+        {
+          "code": "D-JP-3261",
+          "name": "\u6771\u4eac"
+        },
+        {
+          "code": "D-JP-3267",
+          "name": "\u5c71\u68a8"
+        },
+        {
+          "code": "D-JP-3213",
+          "name": "\u7532\u4fe1\u8d8a"
+        },
+        {
+          "code": "D-JP-3216",
+          "name": "\u6771\u6d77\u9053"
+        },
+        {
+          "code": "D-JP-3218",
+          "name": "\u95dc\u6771"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00009",
+          "name": "\u975c\u5ca1"
+        },
+        {
+          "id": "A01-003-00001",
+          "name": "\u6771\u4eac"
+        },
+        {
+          "id": "A01-003-00010",
+          "name": "\u5c71\u68a8"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "show_url_order_num": "30K+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00009",
+        "A01-003-00001",
+        "A01-003-00010"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/10999-tokyo-mount-fuji-lake-kawaguchi-gotemba-tour-japan"
+    },
+    {
+      "id": 263298,
+      "prod_oid": 263298,
+      "name": "\u65e5\u672c\u52dd\u5229\u9054\u6469\u4e4b\u5bfa\u4e00\u65e5\u904a|\u7db2\u7d05\u666f\u9ede\u5927\u962a\u52dd\u5c3e\u5bfa\u30fb\u4eac\u90fd\u5d50\u5c71\u30fb\u6e05\u6c34\u5bfa\u6563\u6b65\u30fb\u5b87\u6cbb\u5e73\u7b49\u9662\u30fb\u5948\u826f\u6771\u5927\u5bfa\u30fb\u5948\u826f\u516c\u5712\u81ea\u7531\u9935\u9e7f\u30fb\u4e09\u4e95OUTLET PARK\u5927\u962a\u9580\u771f\u8cfc\u7269|\u5927\u962a\u30fb\u4eac\u90fd\u51fa\u767c",
+      "introduction": "\u8ddf\u8457KKday\u4e00\u65e5\u904a\u884c\u7a0b,\u5f9e\u5927\u962a\u6216\u4eac\u90fd\u51fa\u767c\u524d\u5f80\u9020\u8a2a\u8457\u6709\u52dd\u5229\u9054\u6469\u4e4b\u5bfa\u4e4b\u7a31\u7684\u958b\u904b\u8056\u5730\u5927\u962a\u300c\u52dd\u5c3e\u5bfa\u300d,\u6b23\u8cde\u5bfa\u5167\u5404\u7a2e\u9054\u6469\u4e0d\u5012\u7fc1;\u9020\u8a2a\u4eac\u90fd\u540d\u52dd\u666f\u9ede\u5d50\u5c71\u5730\u5340\u53ca\u6e05\u6c34\u5bfa,\u6f2b\u904a\u6e21\u6708\u6a4b,\u7af9\u6797\u5c0f\u5f91\u7b49\u89c0\u5149\u52dd\u5730\u3002\u4e09\u4e95OUTLET PARK\u8cfc\u7269\u884c\u7a0b\u81ea\u7531\u9078\u64c7\u4e0b\u8eca\u5730\u9ede\u5ef6\u9577\u8cfc\u7269\u6642\u9593\u3002\u53e6\u5916\u6709\u4eac\u90fd\u51fa\u767c\u884c\u7a0b\u5c07\u524d\u5f80\u5948\u826f\u6771\u5927\u5bfa\u3001\u5948\u826f\u516c\u5712\u53ca\u5b87\u6cbb\u30fb\u5e73\u7b49\u9662\u81ea\u7531\u6563\u6b65\u3002",
+      "rating_count": 94,
+      "rating_star": 4.56,
+      "order_count": 578,
+      "show_order_count": "500+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250416",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": null,
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_023"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20241203023102_KjKWF\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20241203023102_KjKWF\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20250214001744_eRgyC\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20250214001747_TXY3S\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20241204102649_q8tYK\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20241205001441_1hgcF\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20241204102651_ILnDW\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20250318024417_IZXu4\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20250317061627_sX8pw\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20250317061538_hluKo\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_263298\/20241205031817_1XU1l\/jpg"
+      ],
+      "duration": 570,
+      "days": 0,
+      "hours": 9,
+      "minutes": 30,
+      "currency": "TWD",
+      "display_sale_price": "2,594",
+      "sale_price": 2594,
+      "display_price": "1,692",
+      "price": 1692,
+      "discount": 0.3477,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 1861,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00002",
+              "name": "\u5927\u962a"
+            },
+            {
+              "id": "A01-003-00003",
+              "name": "\u4eac\u90fd"
+            },
+            {
+              "id": "A01-003-00006",
+              "name": "\u5948\u826f"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "9675"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-7745",
+          "name": "\u6e05\u6c34\u5bfa"
+        },
+        {
+          "code": "D-JP-8019",
+          "name": "\u6771\u5927\u5bfa"
+        },
+        {
+          "code": "D-JP-8157",
+          "name": "\u5948\u826f\u516c\u5712"
+        },
+        {
+          "code": "D-JP-3328",
+          "name": "\u7b95\u9762"
+        },
+        {
+          "code": "D-JP-3337",
+          "name": "\u9580\u771f\u5e02"
+        },
+        {
+          "code": "D-JP-3342",
+          "name": "\u5fc3\u9f4b\u6a4b"
+        },
+        {
+          "code": "D-JP-3549",
+          "name": "\u5d50\u5c71"
+        },
+        {
+          "code": "D-JP-3556",
+          "name": "\u6771\u5c71"
+        },
+        {
+          "code": "D-JP-3566",
+          "name": "\u5b87\u6cbb"
+        },
+        {
+          "code": "D-JP-3255",
+          "name": "\u5927\u962a"
+        },
+        {
+          "code": "D-JP-3256",
+          "name": "\u4eac\u90fd"
+        },
+        {
+          "code": "D-JP-3217",
+          "name": "\u95dc\u897f"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00002",
+          "name": "\u5927\u962a"
+        },
+        {
+          "id": "A01-003-00003",
+          "name": "\u4eac\u90fd"
+        },
+        {
+          "id": "A01-003-00006",
+          "name": "\u5948\u826f"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        50
+      ],
+      "show_url_order_num": "500+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00002",
+        "A01-003-00003",
+        "A01-003-00006"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        50
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/263298"
+    },
+    {
+      "id": 133921,
+      "prod_oid": 133921,
+      "name": "\u5b9c\u862d|\u592a\u5e73\u5c71\u4e00\u65e5\u904a|\u592a\u5e73\u5c71\u838a&\u8e66\u8e66\u8eca|\u898b\u6674\u61f7\u53e4\u6b65\u9053&\u9ce9\u4e4b\u6fa4\u6eab\u6cc9 &\u4e09\u661f\u8525\u6cb9\u9905|\u53f0\u5317\u5b9c\u862d\u51fa\u767c|\u4e2d\u82f1\u670d\u52d9|\u4fdd\u8b49\u5c0f\u8eca\u51fa\u884c|KKday\u9ad8\u9435\u81ea\u7531\u914d",
+      "introduction": "\u5373\u523b\u8a02\u8cfc\u5b9c\u862d\u592a\u5e73\u5c71\u4e00\u65e5\u904a\u5168\u7a0b\u4ea4\u901a\u63a5\u99c1,\u4e00\u5929\u4e4b\u5167\u8d70\u904d\u5fc5\u53bb \u592a\u5e73\u5c71\u838a\u3001\u592a\u5e73\u5c71\u8e66\u8e66\u8eca\u3001\u9ce9\u4e4b\u6fa4\u6eab\u6cc9!\u4efb\u9078\u53f0\u5317\u5e02\u5340\u6216\u5b9c\u862d\u706b\u8eca\u7ad9\u51fa\u767c!\u3002\u5f9c\u5f89\u5728\u592a\u5e73\u5c71\u570b\u5bb6\u68ee\u6797\u904a\u6a02\u5340,\u898b\u8b49\u64c1\u6709 2500 \u5e74\u6b77\u53f2\u7684\u7d05\u6a9c\u3002\u8d70\u8a2a\u88ab\u8a55\u9078\u70ba\u5168\u7403\u6700\u7f8e28\u689d\u5c0f\u5f91\u4e4b\u4e00\u300c\u898b\u6674\u61f7\u53e4\u6b65\u9053\u300d\u3001\u9ce9\u4e4b\u6fa4\u6eab\u6cc9!KKday \u5c08\u5c6c\u5718\u5c08\u8eca\u628a\u65c5\u904a\u8def\u7dda\u8207\u4ea4\u901a\u90fd\u6e96\u5099\u597d,\u96a8\u8eca\u89aa\u5207\u670d\u52d9\u4eba\u54e1,\u5168\u7a0b\u5f80\u8fd4\u8212\u9069\u8cbc\u5fc3,\u6df1\u5ea6\u9ad4\u9a57\u5317\u53f0\u7063!",
+      "rating_count": 1775,
+      "rating_star": 4.6,
+      "order_count": 7455,
+      "show_order_count": "7K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250415",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": "taipei-yilan-tour-taipingshan-jianqing-huaigu-trail-jiuzhize-hot-springs-taiwan",
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_030"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20221003065200_DvW67\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20221003065200_DvW67\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20230906182014_kUhRG\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20230906163811_LU4yZ\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20221003065204_ehEQD\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20221003065201_OqZc7\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20221003065203_DqUDq\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20230906163809_jqJif\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20221003065206_0CZqp\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20221003065208_MMw53\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_133921\/20231107045245_xY7le\/jpg"
+      ],
+      "duration": 1440,
+      "days": 1,
+      "hours": 0,
+      "minutes": 0,
+      "currency": "TWD",
+      "display_sale_price": "1,700",
+      "sale_price": 1700,
+      "display_price": "1,099",
+      "price": 1099,
+      "discount": 0.3535,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 6900,
+      "countries": [
+        {
+          "id": "A01-001",
+          "name": "\u53f0\u7063",
+          "cities": [
+            {
+              "id": "A01-001-00006",
+              "name": "\u65b0\u5317\u5e02"
+            },
+            {
+              "id": "A01-001-00017",
+              "name": "\u5b9c\u862d"
+            },
+            {
+              "id": "A01-001-00001",
+              "name": "\u53f0\u5317"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "181",
+        "4001"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-TW-6809",
+          "name": "\u5927\u540c\u9109"
+        },
+        {
+          "code": "D-TW-4736",
+          "name": "\u65b0\u5317\u5e02"
+        },
+        {
+          "code": "D-TW-4743",
+          "name": "\u5b9c\u862d"
+        },
+        {
+          "code": "D-TW-5013",
+          "name": "\u53f0\u5317"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-001-00006",
+          "name": "\u65b0\u5317\u5e02"
+        },
+        {
+          "id": "A01-001-00017",
+          "name": "\u5b9c\u862d"
+        },
+        {
+          "id": "A01-001-00001",
+          "name": "\u53f0\u5317"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        50
+      ],
+      "show_url_order_num": "7K+",
+      "country_key": [
+        "A01-001"
+      ],
+      "city_key": [
+        "A01-001-00006",
+        "A01-001-00017",
+        "A01-001-00001"
+      ],
+      "show_city_name": "\u65b0\u5317\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u53f0\u7063",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        50
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/133921-taipei-yilan-tour-taipingshan-jianqing-huaigu-trail-jiuzhize-hot-springs-taiwan"
+    },
+    {
+      "id": 155294,
+      "prod_oid": 155294,
+      "name": "\u3010\u65e9\u9ce5\u9650\u6642\u7279\u60e0|50%OFF\u3011\u5317\u6d77\u9053\u5bcc\u826f\u91ce\u4e00\u65e5\u904a|\u5bcc\u7530\u8fb2\u5834\u5f69\u8679\u82b1\u7530&\u7f8e\u745b\u56db\u5b63\u5f69\u4e4b\u4e18&\u767d\u91d1\u9752\u6c60|\u672d\u5e4c\u51fa\u767c",
+      "introduction": "\u53c3\u52a0\u5317\u6d77\u9053\u4e00\u65e5\u904a\u884c\u7a0b,\u642d\u4e58\u5c08\u8eca\u5f9e JR \u672d\u5e4c\u7ad9\u51fa\u767c,\u524d\u5f80\u5bcc\u826f\u91ce\u30fb\u5bcc\u7530\u8fb2\u5834\u53ca\u56db\u5b63\u5f69\u8679\u4e4b\u4e18,\u6b23\u8cde\u767e\u82b1\u76db\u958b\u7684\u5f69\u8679\u82b1\u7530,\u7f8e\u4e0d\u52dd\u6536;\u8d70\u8a2a\u4ee5\u6c60\u6c34\u78a7\u85cd\u6e05\u6f88\u800c\u540d\u7684\u9752\u6c60,\u96a8\u8457\u5b63\u7bc0\u8b8a\u5316,\u6c60\u6c34\u6703\u5448\u73fe\u5404\u7a2e\u4e0d\u540c\u8272\u6fa4,\u5b9b\u5982\u5e7b\u5883\u3002",
+      "rating_count": 823,
+      "rating_star": 4.68,
+      "order_count": 4079,
+      "show_order_count": "4K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250520",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": null,
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_023"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_AZT7s\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_AZT7s\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_0XgYS\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_CHVPJ\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_tzclx\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_oZ8u3\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_xVhpf\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_AXJjf\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_155294\/20231101125151_TzbrX\/jpg"
+      ],
+      "duration": 600,
+      "days": 0,
+      "hours": 10,
+      "minutes": 0,
+      "currency": "TWD",
+      "display_sale_price": "2,910",
+      "sale_price": 2910,
+      "display_price": "1,455",
+      "price": 1455,
+      "discount": 0.5,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 2008,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00005",
+              "name": "\u5317\u6d77\u9053"
+            },
+            {
+              "id": "A01-003-00004",
+              "name": "\u672d\u5e4c"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "24278"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-7741",
+          "name": "\u9752\u6c60"
+        },
+        {
+          "code": "D-JP-3402",
+          "name": "\u7f8e\u745b"
+        },
+        {
+          "code": "D-JP-3403",
+          "name": "\u5bcc\u826f\u91ce"
+        },
+        {
+          "code": "D-JP-3414",
+          "name": "\u672d\u5e4c"
+        },
+        {
+          "code": "D-JP-3231",
+          "name": "\u5317\u6d77\u9053"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00005",
+          "name": "\u5317\u6d77\u9053"
+        },
+        {
+          "id": "A01-003-00004",
+          "name": "\u672d\u5e4c"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "show_url_order_num": "4K+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00005",
+        "A01-003-00004"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/155294"
+    },
+    {
+      "id": 158778,
+      "prod_oid": 158778,
+      "name": "\u9ed1\u90e8\u7acb\u5c71\u96ea\u7246\u7d55\u666f\u4e09\u65e5\u904a|\u7acb\u5c71\u9ed1\u90e8\u963f\u723e\u5351\u65af\u5c71\u8def\u7dda\u5927\u96ea\u8c37&\u4e0a\u9ad8\u5730&\u767d\u5ddd\u9109\u5408\u638c\u6751&\u98db\u9a28\u9ad8\u5c71\u53e4\u8857&\u517c\u516d\u5712&\u8fd1\u6c5f\u753a\u5e02\u5834|\u65e5\u672c\u540d\u53e4\u5c4b\u51fa\u767c",
+      "introduction": "\u7acb\u5373\u8a02\u8cfc KKday \u9ed1\u90e8\u7acb\u5c71\u96ea\u7246\u4e09\u65e5\u904a,\u5e36\u4f60\u5f9e\u540d\u53e4\u5c4b\u51fa\u767c,\u8f15\u9b06\u9ad4\u9a57\u7acb\u5c71\u9ed1\u90e8\u5927\u96ea\u8c37\u7d55\u666f\u5e36\u4f86\u7684\u9707\u64bc;\u611f\u53d7\u88ab\u6c23\u52e2\u5b8f\u5049\u7fa4\u5c71\u74b0\u7e5e\u53ca\u6e56\u6cca\u6e05\u6f88\u898b\u5e95\u7684\u795e\u7684\u6545\u9109\u4e0a\u9ad8\u5730;\u6f2b\u904a\u4e16\u754c\u6587\u5316\u907a\u7522\u767d\u5ddd\u9109\u5408\u638c\u6751;\u5728\u91d1\u6fa4\u8fd1\u6c5f\u753a\u5e02\u5834\u5927\u5556\u6d77\u81bd\u3001\u751f\u8814\u3001\u5e06\u7acb\u8c9d\u7b49\u65b0\u9bae\u6d77\u7522\u3002",
+      "rating_count": 190,
+      "rating_star": 4.6,
+      "order_count": 1484,
+      "show_order_count": "1K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250426",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": "kurobe-tateyama-alpine-kamikochi-shirakawago-hida-takayama-kenroguen-omicho-nagoya",
+      "main_cat_key": "M02",
+      "product_category": {
+        "main": "CATEGORY_021",
+        "sub": [
+          "CATEGORY_046",
+          "CATEGORY_034"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_5"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222043004_AfjEW\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222043004_AfjEW\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222112453_Sa1ij\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222044511_N2udg\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222044928_bNdSG\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222042938_AhG6N\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222044226_5Nbrq\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20240220072036_oAJyv\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222044841_oJGgG\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222112448_2D448\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_158778\/20231222043142_WBaXV\/jpg"
+      ],
+      "duration": 4320,
+      "days": 3,
+      "hours": 0,
+      "minutes": 0,
+      "currency": "TWD",
+      "display_sale_price": "21,183",
+      "sale_price": 21183,
+      "display_price": "16,874",
+      "price": 16874,
+      "discount": 0.2034,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 20709,
+      "countries": [
+        {
+          "id": "A01-003",
+          "name": "\u65e5\u672c",
+          "cities": [
+            {
+              "id": "A01-003-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-003-00033",
+              "name": "\u77f3\u5ddd"
+            },
+            {
+              "id": "A01-003-00014",
+              "name": "\u5bcc\u5c71"
+            },
+            {
+              "id": "A01-003-00017",
+              "name": "\u9577\u91ce"
+            },
+            {
+              "id": "A01-003-00015",
+              "name": "\u5c90\u961c"
+            },
+            {
+              "id": "A01-003-00026",
+              "name": "\u611b\u77e5"
+            },
+            {
+              "id": "A01-003-00027",
+              "name": "\u540d\u53e4\u5c4b"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "27883"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-JP-7585",
+          "name": "\u517c\u516d\u5712"
+        },
+        {
+          "code": "D-JP-7685",
+          "name": "\u9ed1\u90e8\u5ddd"
+        },
+        {
+          "code": "D-JP-3458",
+          "name": "\u91d1\u6fa4"
+        },
+        {
+          "code": "D-JP-3496",
+          "name": "\u767d\u5ddd\u9109"
+        },
+        {
+          "code": "D-JP-3501",
+          "name": "\u9ad8\u5c71"
+        },
+        {
+          "code": "D-JP-3682",
+          "name": "\u4e0a\u9ad8\u5730"
+        },
+        {
+          "code": "D-JP-3701",
+          "name": "\u677e\u672c"
+        },
+        {
+          "code": "D-JP-3922",
+          "name": "\u7acb\u5c71\u9ed1\u90e8"
+        },
+        {
+          "code": "D-JP-3956",
+          "name": "\u540d\u53e4\u5c4b"
+        },
+        {
+          "code": "D-JP-7875",
+          "name": "\u5ba4\u5802"
+        },
+        {
+          "code": "D-JP-3232",
+          "name": "\u77f3\u5ddd\u7e23"
+        },
+        {
+          "code": "D-JP-3233",
+          "name": "\u5bcc\u5c71"
+        },
+        {
+          "code": "D-JP-3239",
+          "name": "\u9577\u91ce"
+        },
+        {
+          "code": "D-JP-3251",
+          "name": "\u5c90\u961c"
+        },
+        {
+          "code": "D-JP-3252",
+          "name": "\u611b\u77e5\u7e23"
+        },
+        {
+          "code": "D-JP-3211",
+          "name": "\u5317\u9678"
+        },
+        {
+          "code": "D-JP-3213",
+          "name": "\u7532\u4fe1\u8d8a"
+        },
+        {
+          "code": "D-JP-3216",
+          "name": "\u6771\u6d77\u9053"
+        },
+        {
+          "code": "D-JP-112",
+          "name": "\u65e5\u672c"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-003-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-003-00033",
+          "name": "\u77f3\u5ddd"
+        },
+        {
+          "id": "A01-003-00014",
+          "name": "\u5bcc\u5c71"
+        },
+        {
+          "id": "A01-003-00017",
+          "name": "\u9577\u91ce"
+        },
+        {
+          "id": "A01-003-00015",
+          "name": "\u5c90\u961c"
+        },
+        {
+          "id": "A01-003-00026",
+          "name": "\u611b\u77e5"
+        },
+        {
+          "id": "A01-003-00027",
+          "name": "\u540d\u53e4\u5c4b"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        50
+      ],
+      "show_url_order_num": "1K+",
+      "country_key": [
+        "A01-003"
+      ],
+      "city_key": [
+        "A01-003-99999",
+        "A01-003-00033",
+        "A01-003-00014",
+        "A01-003-00017",
+        "A01-003-00015",
+        "A01-003-00026",
+        "A01-003-00027"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u65e5\u672c",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        50
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/158778-kurobe-tateyama-alpine-kamikochi-shirakawago-hida-takayama-kenroguen-omicho-nagoya"
+    },
+    {
+      "id": 2287,
+      "prod_oid": 19510,
+      "name": "\u5317\u6d77\u5cb8\u4e00\u65e5\u904a|\u4e5d\u4efd&\u91ce\u67f3 &\u5341\u5206&\u963f\u59b9\u8336\u6a13&\u9ec3\u91d1\u7011\u5e03|\u65e5\u9593\u591c\u9593 \u591a\u8a9e\u670d\u52d9|\u4fdd\u8b49\u51fa\u5718|KKday\u9ad8\u9435\u81ea\u7531\u914d",
+      "introduction": "\u5373\u523b\u8a02\u8cfc\u53f0\u5317\u8fd1\u90ca\u4e00\u65e5\u904a,\u767d\u5929\u6216\u4e0b\u5348\u51fa\u767c\u4efb\u9078,\u4e00\u5929\u8d70\u8a2a\u7d93\u5178\u65b0\u5317\u5fc5\u53bb\u666f\u9ede - \u4e5d\u4efd\u8001\u8857\u3001\u91ce\u67f3\u3001\u5e73\u6eaa\u3001\u5341\u5206!KKday \u5c08\u8eca\u628a\u65c5\u904a\u8def\u7dda\u8207\u4ea4\u901a\u90fd\u6e96\u5099\u597d,\u96a8\u8eca\u5c08\u696d\u4e2d\u82f1\u65e5\u97d3\u5c0e\u89bd,\u5168\u7a0b\u5f80\u8fd4\u8212\u9069\u8cbc\u5fc3,\u6df1\u5ea6\u9ad4\u9a57\u5317\u53f0\u7063\u963f\u59b9\u8336\u6a13\u7b49\u53f0\u5317\u79d8\u5883,\u6b23\u8cde\u65e5\u591c\u7686\u7f8e\u7684\u745e\u82b3\u5c71\u57ce,\u9084\u53ef\u9078\u64c7\u5728\u53f0\u5317101  \u6216 \u53f0\u5317\u8eca\u7ad9 \u4e0b\u8eca!KKday\u5c08\u5c6c - 2024 \u4e5d\u4efd\u8001\u8857  \u963f\u59b9\u8336\u6a13\u8336\u98df\u9ad4\u9a57   \u91ce\u67f3\u77f3\u5149   \u5341\u5206\u8001\u8857\u653e\u5929\u71c8  \u7368\u5bb6\u65b9\u6848\u92b7\u552e\u4e2d~~~",
+      "rating_count": 13500,
+      "rating_star": 4.65,
+      "order_count": 46940,
+      "show_order_count": "40K+",
+      "confirm_hour": 0,
+      "instant_booking": true,
+      "instant_use": false,
+      "free_refund_policy": false,
+      "free_refund_before_day": null,
+      "earliest_sale_date": "20250414",
+      "sale_status": "1",
+      "purchase_type": null,
+      "purchase_date": null,
+      "is_tourism_product": true,
+      "readable_url": "jiufen-yehliu-shifen-pingxi-day-tour-night-tour-from-taipei",
+      "main_cat_key": "M01",
+      "product_category": {
+        "main": "CATEGORY_020",
+        "sub": [
+          "CATEGORY_030"
+        ]
+      },
+      "promo_tag_keys": [
+        "0001"
+      ],
+      "cat_key": [
+        "TAG_4_4"
+      ],
+      "theme_code": [],
+      "product_labels": [],
+      "img_url": "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20221007092146_ziIes\/jpg",
+      "img_url_list": [
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20221007092146_ziIes\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20221007092148_jzKCq\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20230425025416_FzdLk\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20221007092148_uj0S4\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20221007092112_mbC1r\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20221007092232_9HweD\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20231030102428_Z11A3\/jpg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20180619043138_UPigW\/jpeg",
+        "https:\/\/image.kkday.com\/image\/get\/w_600%2Cc_fit\/s1.kkday.com\/product_19510\/20221007092746_SYr5A\/jpg"
+      ],
+      "duration": 540,
+      "days": 0,
+      "hours": 9,
+      "minutes": 0,
+      "currency": "TWD",
+      "display_sale_price": "1,299",
+      "sale_price": 1299,
+      "display_price": "693",
+      "price": 693,
+      "discount": 0.4665,
+      "is_display_price": true,
+      "app_cheaper_than_web": false,
+      "max_price": 1599,
+      "countries": [
+        {
+          "id": "A01-001",
+          "name": "\u53f0\u7063",
+          "cities": [
+            {
+              "id": "A01-001-99999",
+              "name": "\u6240\u6709\u57ce\u5e02"
+            },
+            {
+              "id": "A01-001-00006",
+              "name": "\u65b0\u5317\u5e02"
+            },
+            {
+              "id": "A01-001-00007",
+              "name": "\u5e73\u6eaa"
+            },
+            {
+              "id": "A01-001-00001",
+              "name": "\u53f0\u5317"
+            }
+          ]
+        }
+      ],
+      "is_marketplace": false,
+      "supplier_oid_list": [
+        "181"
+      ],
+      "supplier_name": null,
+      "supplier_logo": null,
+      "supplier_award": 0,
+      "supplier_badge": 0,
+      "is_zero_price": false,
+      "destinations": [
+        {
+          "code": "D-TW-4745",
+          "name": "\u5e73\u6eaa"
+        },
+        {
+          "code": "D-TW-6767",
+          "name": "\u745e\u82b3\u5340"
+        },
+        {
+          "code": "D-TW-8163",
+          "name": "\u4e5d\u4efd"
+        },
+        {
+          "code": "D-TW-4736",
+          "name": "\u65b0\u5317\u5e02"
+        },
+        {
+          "code": "D-TW-5013",
+          "name": "\u53f0\u5317"
+        },
+        {
+          "code": "D-TW-225",
+          "name": "\u53f0\u7063"
+        }
+      ],
+      "cities": [
+        {
+          "id": "A01-001-99999",
+          "name": "\u6240\u6709\u57ce\u5e02"
+        },
+        {
+          "id": "A01-001-00006",
+          "name": "\u65b0\u5317\u5e02"
+        },
+        {
+          "id": "A01-001-00007",
+          "name": "\u5e73\u6eaa"
+        },
+        {
+          "id": "A01-001-00001",
+          "name": "\u53f0\u5317"
+        }
+      ],
+      "star_percentage": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "show_url_order_num": "40K+",
+      "country_key": [
+        "A01-001"
+      ],
+      "city_key": [
+        "A01-001-99999",
+        "A01-001-00006",
+        "A01-001-00007",
+        "A01-001-00001"
+      ],
+      "show_city_name": "\u6240\u6709\u57ce\u5e02, \u591a\u500b\u57ce\u5e02",
+      "show_country_name": "\u53f0\u7063",
+      "show_rating_star": [
+        "100",
+        "100",
+        "100",
+        "100",
+        75
+      ],
+      "url": "https:\/\/www.kkday.com\/zh-tw\/product\/2287-jiufen-yehliu-shifen-pingxi-day-tour-night-tour-from-taipei"
+    }
+  ]
+}
