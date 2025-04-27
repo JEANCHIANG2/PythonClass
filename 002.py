@@ -32,4 +32,3 @@ for img in imgs:
 
     i += 1
 
-#抓圖片
