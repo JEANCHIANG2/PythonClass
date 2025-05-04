@@ -1,10 +1,15 @@
 import matplotlib.pyplot as plt
-
-listx = [16, 26, 38, 15, 22, 30]
-listy = [1, 3, 5, 7, 9, 11]
+plt.rc('font',family='Microsoft Jhenghei')
+listx = [1, 2, 3, 4, 5, 6]
+listy = [16, 26, 38, 15, 22, 30]
 plt.title('test')
-plt.xlabel('degree')
-plt.ylabel('day')
-plt.plot(listx, listy, marker='o', color='green')
+plt.xlabel('日')
+plt.ylabel('氣溫(攝氏)')
 
+plt.plot(listx, listy, marker='s',color='#ff8c00', linestyle='-',linewidth=1,markersize=5,label='五月')
+plt.xlim(1,7)
+plt.ylim(1,50)
+plt.xticks([1,2,3,4,5,6,7,8,9,10])
+plt.yticks(range(1,51,3))
+plt.legend()
 plt.show()
